@@ -13,14 +13,19 @@ Arayüz sade, modern ve kullanıcı dostu olacak şekilde tasarlanmıştır.
 ✅ Tailwind CSS ile responsive modern tasarım  
 ✅ Reset butonuyla skor sıfırlama özelliği  
 
-## 🛠️ Kurulum
-
-git clone https://github.com/
-
-
 🧩 Teknolojiler
+- React 18
+- TypeScript
+- Tailwind CSS
+- React Hooks (useState)
 
-⚛️ React 18
-⛑️ TypeScript
-🎨 Tailwind CSS
-🧠 React Hooks (useState)
+## 📁 Kurulum
+Projeyi kendi bilgisayarında çalıştırmak için:
+
+Bu repoyu klonlayın:
+   ```bash
+   [git clone [https://github.com/barzandavut/Rock-Paper-Scissors-Game]
+   ```
+
+**Davut Çiftçi**  
+- [LinkedIn](https://www.linkedin.com/in/davutciftci/) • [GitHub](https://github.com/barzandavut)
